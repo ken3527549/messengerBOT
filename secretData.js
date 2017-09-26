@@ -1,0 +1,5 @@
+const page_access_token = 'EAACEdEose0cBAFgTFbEU7ciINeYmSonoMc1ZCciUDtkfijgwb5IrxvhFilJ6hVZBHKOlfZCdv5sGDQpsIhtQHT3QfSJZAZBW4H3uilhOfm7ZBZBucOmEk7j2jZCZCVnQXrLhKL56xeoPmRV2ysoVOJa7aP3PQQDGqoSyKrwGRpMVg6elsQ6AZA3IO0xEFIsxN47pkB0gkxBQKD8gZDZD';
+
+module.exports = {
+  page_access_token
+}
